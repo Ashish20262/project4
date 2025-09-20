@@ -14,3 +14,10 @@
  <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/4812885a-4156-4148-a58f-9063a656dc5a" />
 
   <h1> prog5</h1>
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/f7c8eb68-5a37-4845-86a1-fa98fc8d4b9a" />
+
+
+
+  <h1> prog6</h1>
+
+  
