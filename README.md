@@ -8,3 +8,9 @@
 
  <h1> prog3</h1>
  <img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/41487e16-a2d2-4928-8d16-643690d35714" />
+
+
+ <h1> prog4</h1>
+ <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/4812885a-4156-4148-a58f-9063a656dc5a" />
+
+  <h1> prog5</h1>
