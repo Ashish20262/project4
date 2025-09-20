@@ -22,3 +22,8 @@
 
   
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/52a98acc-01ca-47f6-a5e7-80195528df3b" />
+
+
+  <h1> prog7</h1>
+  
+<img width="1920" height="1080" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/7115cab1-965e-4310-a722-acabbc7db1f9" />
