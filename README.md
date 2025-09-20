@@ -21,3 +21,4 @@
   <h1> prog6</h1>
 
   
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/52a98acc-01ca-47f6-a5e7-80195528df3b" />
